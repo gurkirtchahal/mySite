@@ -106,6 +106,16 @@ body {
 	line-height: 1.8em;
 }
 
+#review-showcase {
+	background-image: url(../assets/images/reviewShowcase.jpg);
+	height: 300px;
+	width: 80%;
+	min-height: 200px;
+	margin-bottom: 30px;
+	font-size: 25px;
+	line-height: 1.8em;
+}
+
 #main {
 	color: var(--main-text-color);
 	width: 70%;
